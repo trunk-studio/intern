@@ -31,7 +31,6 @@
 >
 > — Ron Jeffries 等，《極致軟體製程：專案應用》
 
-
 ## Day 2
 
 (under construction)
