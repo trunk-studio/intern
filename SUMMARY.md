@@ -1,7 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-   * 任務
+* 任務清單
+   * [第一週](week1.md)
 * 工具使用
    * [slack 介紹](slack.md)
    * [zoom 介紹](zoom.md)
