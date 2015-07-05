@@ -1,6 +1,6 @@
 # 第一週
 
-Day 1
+## Day 1
 
 * Join message group
   * Slack (for discussions)
@@ -31,8 +31,7 @@ Day 1
 >
 > — Ron Jeffries 等，《極致軟體製程：專案應用》
 
----
 
-Day 2
+## Day 2
 
 (under construction)
