@@ -17,3 +17,5 @@ Day 1
   * Cloning sandbox repository to your local disk
   * Create a folder named `"______"` in sandbox, `"______"` is your github account name. e.g. `johnliu`
 
+未來我們進行任何的專案開發，原始碼皆會以 Git 進行控管，請利用半天的時間瞭解 Git 的基本操作指令。
+
