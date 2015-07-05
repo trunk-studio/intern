@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [任務清單](missions.md)
-   * [第一週](week1.md)
+   * [第一週](week1md.md)
 * 工具使用
    * [slack 介紹](slack.md)
    * [zoom 介紹](zoom.md)
