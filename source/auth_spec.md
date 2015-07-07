@@ -98,3 +98,8 @@ describe.only('auth', () => {
 1 passing (145ms)
 
 ```
+˘
+## 練習
+
+
+* [使用者可以使用帳號密碼登入（後端 api 實作）](https://trello.com/c/Mu7z2kFo)
