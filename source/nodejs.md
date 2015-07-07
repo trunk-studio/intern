@@ -9,3 +9,5 @@
 
 * [sequelizejs - ORM 套件](http://docs.sequelizejs.com/en/latest/)
 * [koajs - server](http://koajs.com/)
+* [chai - BDD/TDD framework](http://chaijs.com/guide/styles/)
+* [babeljs - es6, es7](https://babeljs.io/docs/learn-es2015/)
