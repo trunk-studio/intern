@@ -6,6 +6,7 @@
 
 * 工具使用
   * [slack 介紹](source/slack.md)
+  * [slack integration](source/slack-integration.md)
   * [zoom 介紹](source/zoom.md)
 
 * 版本控制
