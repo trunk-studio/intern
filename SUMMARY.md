@@ -8,6 +8,7 @@
   * [slack 介紹](source/slack.md)
   * [slack integration](source/slack-integration.md)
   * [zoom 介紹](source/zoom.md)
+  * [Atom 介紹](source/atom.md)
 
 * 版本控制
   * [git & github 介紹](source/git_github.md)
@@ -20,7 +21,7 @@
 * backend framework
   * [java - grails](source/grails.md)
   * [java - spring boot](source/spring_boot.md)
-  * [nodejs - sails](source/sails.md)
+  * [nodejs - sails](source/sails.md
 
 * front end framework
   * [react](source/react.md)
