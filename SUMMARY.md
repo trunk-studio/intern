@@ -13,7 +13,7 @@
 * 版本控制
   * [git & github 介紹](source/git_github.md)
   * [github flow 介紹](source/github_flow.md)
-  * [github flow 介紹](source/github_fork.md)
+  * [github fork 介紹](source/github_fork.md)
 
 * language
   * [nodejs](source/nodejs.md)
