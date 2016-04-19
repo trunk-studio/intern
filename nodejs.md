@@ -1,9 +1,18 @@
-# nodejs
+# Node.js
+
+* Learn Node.js
+  * Install Node.js
+  * Getting started with Node.js
+  * Write a Hello World program named `hello.js` in `sandbox` (under your personal folder)
+  * Learn Node related tools like `npm`, `package.json`...
+
+## NodeSchool
+
+http://nodeschool.io/
 
 ## 參考資料
 
 * [nodejs 華文維基平台](https://sites.google.com/site/nodejswikiinchinese/)
-
 
 ## 參考套件
 
