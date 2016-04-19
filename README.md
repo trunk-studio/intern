@@ -2,6 +2,10 @@
 
 這是一份對新手友善的教材，提供給創科資訊團隊的實習生及新進開發人員。
 
+// TODO 請 @william 補：
+
+新進人員報到 SOP
+
 ## 新手村
 
 成為優秀軟體開發者的養成之路。
@@ -15,14 +19,19 @@
 >
 > — Ron Jeffries 等，《極致軟體製程：專案應用》
 
+## 必備工具
+
+* MacBook
+* Slack
+* Trello
+* ZenHub
+
 ## 必修學分
 
-* Git
-* Node.js
-* NPM
+* GitHub / Git
+* Node.js / NPM
+* Scrum
 * React
 * Jenkins
 * Docker
 * Test Driven Development
-* ZenHub or Trello
-* Scrum
