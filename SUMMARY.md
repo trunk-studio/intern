@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 
+* [新兵報到](onboard.md)
+
 * [任務清單](missions.md)
    * [第一週](week1.md)
 
