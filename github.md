@@ -17,6 +17,7 @@
 ## 參考資料
 
 * [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
+* [Git 資料搜集](https://github.com/Luxame/Information/blob/master/git.md)
 * [github - Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
 
 
