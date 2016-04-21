@@ -12,32 +12,32 @@
 
 - [原始碼版本管理: github](github.md)
 
-- [pull request 使用說明](pull_request.md)
+- [* pull request 使用說明](pull_request.md)
 
-- [專案進度控管: zenhub](zenhub.md)
+- [* 專案進度控管: zenhub](zenhub.md)
 
 - [Node.js](nodejs.md)
 
-- [sails](sails.md)
+- [* sails](sails.md)
 
 - [測試驅動開發](tdd.md)
 
-- [sails sample with TDD 練習](sails_tdd.md)
+- [* sails sample with TDD 練習](sails_tdd.md)
 
-- [koa.js](koa.md)
+- [* koa.js](koa.md)
 
-- [react.js](reactjs.md)
+- [* react.js](reactjs.md)
 
-- [redux](redux.md)
+- [* redux](redux.md)
 
-- [react-native](react-native.md)
+- [* react-native](react-native.md)
 
-- [framework7](framework7.md)
+- [* framework7](framework7.md)
 
 - [Spring Boot](spring_boot.md)
 
-- [設計發想 SOP](design.md)
+- [* 設計發想 SOP](design.md)
 
-- [Sketch 學習資源](sketch.md)
+- [* Sketch 學習資源](sketch.md)
 
 - [Appendix: Slack 擴充套件](source/slack-integration.md)
