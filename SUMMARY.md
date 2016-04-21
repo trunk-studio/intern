@@ -10,34 +10,70 @@
 
 - [開發工具](devtool.md)
 
-- [原始碼版本管理: github](github.md)
+- 基礎
 
-- [* pull request 使用說明](pull_request.md)
+  - [原始碼版本管理: GitHub](github.md)
 
-- [* 專案進度控管: zenhub](zenhub.md)
+  - [* Pull Request 使用說明](pull_request.md)
 
-- [Node.js](nodejs.md)
+  - [* 專案進度控管: Zenhub](zenhub.md)
 
-- [* sails](sails.md)
+  - [* Sequelize]()
 
-- [測試驅動開發](tdd.md)
+  - [Node.js](nodejs.md)
 
-- [* sails sample with TDD 練習](sails_tdd.md)
+  - [* sails](sails.md)
 
-- [* koa.js](koa.md)
+  - [測試驅動開發](tdd.md)
 
-- [* react.js](reactjs.md)
+  - [* sails sample with TDD 練習](sails_tdd.md)
 
-- [* redux](redux.md)
+  - [* koa.js](koa.md)
 
-- [* react-native](react-native.md)
+  - [* react.js](reactjs.md)
 
-- [* framework7](framework7.md)
+  - [* redux](redux.md)
 
-- [Spring Boot](spring_boot.md)
+  - [* react-native](react-native.md)
 
-- [* 設計發想 SOP](design.md)
+  - [* framework7](framework7.md)
 
-- [* Sketch 學習資源](sketch.md)
+  - [* 程式碼撰寫規範](code_convention.md)
+
+  - [* 開發流程注意事項](development_notice.md)
+
+  - [* 設計發想 SOP](design.md)
+
+- 進階
+
+  - [* Sketch 學習資源](sketch.md)
+
+  - [* iOS 上架流程]
+
+  - [* android 上架流程]
+
+  - [* Mocha]()
+
+  - [* Sass]()
+
+  - [* Socket.io]
+
+  - [* Webpack]
+
+  - [* Docker]
+
+  - [* Jenkins]
+
+  - [Spring Boot](spring_boot.md)
+
+  - [* LightAdmin]
+
+  - [* ElasticSearch]
+
+  - [* Solr]
+
+  - [* Babel]
+
+  - [* AWS]
 
 - [Appendix: Slack 擴充套件](source/slack-integration.md)
