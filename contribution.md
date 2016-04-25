@@ -2,12 +2,12 @@
 
 * PlantUML for Gitbook
 
-  Kyle (lyhcode)
+  @lyhcode
 
   https://www.npmjs.com/package/gitbook-plugin-plantuml
 
 * react-native checkbox component implement with react-native-vector-icons
 
-  dmoon
+  @dmoon
 
   https://www.npmjs.com/package/react-native-icon-checkbox

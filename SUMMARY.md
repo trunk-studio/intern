@@ -6,7 +6,9 @@
 
 - [新兵報到](onboard.md)
 
-- [團隊開放源碼貢獻](contribution.md)
+- [團隊成員](member.md)
+
+- [開放源碼貢獻](contribution.md)
 
 - [參與團隊協作](cowork.md)
 
