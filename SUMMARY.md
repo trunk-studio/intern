@@ -44,9 +44,9 @@
 
   - [* 設計發想 SOP](design.md)
 
-- 進階
-
   - [* Sketch 學習資源](sketch.md)
+
+- 進階
 
   - [* iOS 上架流程]
 
