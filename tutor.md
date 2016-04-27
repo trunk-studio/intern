@@ -7,7 +7,8 @@
 ## 終端機
 
 
-Font Family: Monaco
-Font Size: 18pt
+* Color Scheme: Pro (black bg + white fg)
+* Font Family: Monaco
+* Font Size: 18pt
 
 ![](images/terminal-settings.png)
