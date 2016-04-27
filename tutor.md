@@ -15,6 +15,8 @@ Create "Trunk Studio (tutor)" system account for tutoring.
 
 ## Desktop
 
+使用統一的桌面。 
+
 ![](images/wallpaper.png)
 
 ## Terminal
