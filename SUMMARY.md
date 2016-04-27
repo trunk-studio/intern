@@ -7,6 +7,7 @@
 * [開放源碼貢獻](contribution.md)
 * [參與團隊協作](cowork.md)
 * [開發工具](devtool.md)
+* [錄製教學影片](tutor.md)
 * 基礎
    * [原始碼版本管理: GitHub](github.md)
    * [Pull Request 使用說明](pull_request.md)
