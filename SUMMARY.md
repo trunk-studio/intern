@@ -26,20 +26,20 @@
    * [* 設計發想 SOP](design.md)
    * [* Sketch 學習資源](sketch.md)
 * 進階
-   * [* iOS 上架流程]
-   * [* android 上架流程]
-   * * Mocha
-   * * Sass
-   * [* Socket.io]
-   * [* Webpack]
-   * [* Docker]
-   * [* Jenkins]
+   * iOS 上架流程
+   * android 上架流程
+   * Mocha
+   * Sass
+   * Socket.io
+   * Webpack
+   * Docker
+   * Jenkins
    * [Spring Boot](spring_boot.md)
-   * [* LightAdmin]
-   * [* ElasticSearch]
-   * [* Solr]
-   * [* Babel]
-   * [* AWS]
+   * LightAdmin
+   * ElasticSearch
+   * Solr
+   * Babel
+   * AWS
 * [Appendix: Slack 擴充套件](source/slack-integration.md)
 * 錄製教學影片
 
