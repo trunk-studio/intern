@@ -4,4 +4,10 @@
 建立 Trunk Studio (tutor) 帳號。
 ![tutor-account](images/create-tutor-account.png)
 
-乾淨的桌面
+## 終端機
+
+
+Font Family: Monaco
+Font Size: 18pt
+
+![](images/terminal-settings.png)
