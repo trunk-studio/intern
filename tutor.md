@@ -13,6 +13,10 @@
 Create "Trunk Studio (tutor)" system account for tutoring.
 ![tutor-account](images/create-tutor-account.png)
 
+## Desktop
+
+![](images/wallpaper.png)
+
 ## Terminal
 
 * Color Scheme: Pro (black bg + white fg)
