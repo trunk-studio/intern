@@ -31,7 +31,7 @@
 ## 練習題二
 
 1. fork 回去自己的 github
-2. 新增一個自己 id 的 md 黨
+2. 新增一個自己 id 的 md 檔
 3. 發 pull request 要求 merge 到 https://github.com/trunk-studio/sandbox 之 master branch
 
 # github flow
