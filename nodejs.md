@@ -20,3 +20,9 @@ http://nodeschool.io/
 * [koajs - server](http://koajs.com/)
 * [chai - BDD/TDD framework](http://chaijs.com/guide/styles/)
 * [babeljs - es6, es7](https://babeljs.io/docs/learn-es2015/)
+
+## Node 管理套件 - NVM
+
+NVM 全名是 Node Version Manager ，是用來管理 Node.js 版本的 Tool ，因為 Node 的版本更新速度很快，可能需要做版本的切換，而使用 NVM 可以快速做到版本的切換。
+
+* [NVM]https://github.com/creationix/nvm
