@@ -2,9 +2,8 @@
 
 * 開通 Slack
 * 註冊 GitHub （如果沒有）
+* 填寫[新人報到表單](https://goo.gl/tJlokw)
+* [HACKPAD](https://hackpad.com/)
 * 申請公司 Google 帳號
 * Google Calendar 邀請
-* 填寫新人報到表單
-* 填寫個人聯繫資料
 * 繳交證件／銀行存摺影本給行政主管
-* [HACKPAD](https://hackpad.com/)
