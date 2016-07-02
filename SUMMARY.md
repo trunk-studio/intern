@@ -48,3 +48,4 @@
   - AWS
 
 - [Appendix: Slack 擴充套件](source/slack-integration.md)
+- [FAQ 常見問題](faq.md)
