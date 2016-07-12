@@ -17,7 +17,7 @@ Create "Trunk Studio (tutor)" system account for tutoring.
 
 使用統一的桌面。
 
-![](images/wallpaper.png)
+![](images/agileworks.png)
 
 ## Terminal
 
