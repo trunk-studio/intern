@@ -28,6 +28,7 @@
   - [開發流程注意事項](development_notice.md)
   - [設計發想 SOP](design.md)
   - [Sketch 學習資源](sketch.md)
+  - [Hexo](hexo.md)
 
 - 進階
 
