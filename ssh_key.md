@@ -66,12 +66,11 @@ $ clip < ~/.ssh/id_rsa.pub
 
 2. 至 GitHub 頁面中，點選右上頭像旁的倒三角形，點選 `Settings`
 
-![](/blog/content/images/2016/06/-----2016-06-16-16-31-37.png)
-![](/blog/content/images/2016/06/-----2016-06-16-16-32-02.png)
+![](/images/git-ssh01.png)
 
 3. 在左側設定列表中點選 `SSH and GPG keys`
 
-![](/blog/content/images/2016/06/-----2016-06-16-16-32-21.png)
+![](/images/git-ssh02.png)
 
 4. 選擇 `New SSH key`
 
