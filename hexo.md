@@ -8,12 +8,13 @@ Hexo 是基於 Node.js 網誌框架，文章的寫作只要使用 Markdown 語�
 
 ## 安裝
 
-安裝 Hexo 前，需有以下軟體：
+安裝 Hexo 前，需先完成以下事項：
 
-- Node.js
-- Git
+- Node.js 安裝
+- Git 安裝
+- 建立 Git SSH Key
 
-有上述軟體時，使用 NPM 安裝 Hexo
+上述事項完成後，使用 NPM 安裝 Hexo
 
 ```
 $ npm install -g hexo-cli
@@ -58,6 +59,15 @@ $ npm install hexo-deployer-git --save
 ```
 
 - `_config.yml` 設定
+
+```
+url:
+ // 網站的網址
+root:
+ // 網站根目錄
+permalink: :year:month:day/:title/
+ // 文章的連結格式
+```
 
 ```
 deploy:
