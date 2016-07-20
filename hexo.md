@@ -12,7 +12,7 @@ Hexo 是基於 Node.js 網誌框架，文章的寫作只要使用 Markdown 語�
 
 - Node.js 安裝
 - Git 安裝
-- 建立 Git SSH Key
+- 建立 [Git SSH Key](ssh_key.md)
 
 上述事項完成後，使用 NPM 安裝 Hexo
 
