@@ -69,6 +69,10 @@ permalink: :year:month:day/:title/
  // 文章的連結格式
 ```
 
+`url` 、 `root` 未設定 deploy 上去的 blog 會發生以下圖例
+
+![hexo-borken](hexo-borken.png)
+
 ```
 deploy:
   type: git
