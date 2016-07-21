@@ -29,6 +29,7 @@
   - [設計發想 SOP](design.md)
   - [Sketch 學習資源](sketch.md)
   - [Hexo](hexo.md)
+  - [Git SSH Key 建置](ssh_key.md)
 
 - 進階
 

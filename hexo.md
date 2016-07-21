@@ -8,12 +8,13 @@ Hexo 是基於 Node.js 網誌框架，文章的寫作只要使用 Markdown 語�
 
 ## 安裝
 
-安裝 Hexo 前，需有以下軟體：
+安裝 Hexo 前，需先完成以下事項：
 
-- Node.js
-- Git
+- Node.js 安裝
+- Git 安裝
+- 建立 [Git SSH Key](ssh_key.md)
 
-有上述軟體時，使用 NPM 安裝 Hexo
+上述事項完成後，使用 NPM 安裝 Hexo
 
 ```
 $ npm install -g hexo-cli
@@ -60,6 +61,19 @@ $ npm install hexo-deployer-git --save
 - `_config.yml` 設定
 
 ```
+url:
+ // 網站的網址
+root:
+ // 網站根目錄
+permalink: :year:month:day/:title/
+ // 文章的連結格式
+```
+
+`url` 、 `root` 未設定 deploy 上去的 blog 會發生以下圖例
+
+![hexo-borken](/images/hexo-borken.png)
+
+```
 deploy:
   type: git
   // 要使用的部署類型
@@ -85,6 +99,17 @@ $ hexo clean
 
 清除快取檔案或是以產生的靜態檔案
 
+## 更換主題
+
+依照要更換主題的文件做指令操作，大多主題直接使用 `git clone` 把主題專案放進自己 Blog
+
+的 `/themes` 中，然後再到外部的 `_config.yml` 下，把原本的主題名稱改成新的即可。
+
+```
+theme: landscape -> 新主題名稱
+```
+
+修改完成，可以使用 `hexo s` 在本地端預覽查看，沒問題就可以用 `hexo d` ，把新主題推到 Github pages 上了。
 
 ## 參考資料
 
